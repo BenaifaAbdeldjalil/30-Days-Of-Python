@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<person gender="female">
+  <name>benaifa</name>
+  <country>Algeria</country>
+  <city>Blida</city>
+  <skills>
+    <skill>JavaScrip</skill>
+    <skill>React</skill>
+    <skill>Python</skill>
+  </skills>
+</person>

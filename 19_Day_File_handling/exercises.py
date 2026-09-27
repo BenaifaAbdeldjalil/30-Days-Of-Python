@@ -150,3 +150,69 @@ person = {
 }
 with open('./19_Day_File_handling/json_text.json', 'w', encoding='utf-8') as f:
     json.dump(person, f, ensure_ascii=False, indent=4)
+
+
+
+
+### File with csv Extension
+
+#CSV stands for comma separated values. CSV is a simple file format used to store tabular data, such as a spreadsheet or database. CSV is a very common data format in data science.
+
+
+
+""" 
+"name","country","city","skills"
+"benaifa","Algeria","blida","JavaScript"
+
+"""
+
+import csv
+with open('./19_Day_File_handling/csv_example.csv') as f:
+    csv_reader = csv.reader(f, delimiter=',') # we use, reader method to read csv
+    line_count = 0
+    for row in csv_reader:
+        if line_count == 0:
+            print(f'Column names are :{", ".join(row)}')
+            line_count += 1
+        else:
+            print(
+                f'\t{row[0]} is a teachers. He lives in {row[1]}, {row[2]}.')
+            line_count += 1
+    print(f'Number of lines:  {line_count}')
+
+""""
+Column names are :name, country, city, skills
+        benaifa is a teachers. He lives in Algeria, blida.
+Number of lines:  2
+"""
+
+### File with xml Extension
+
+#XML is another structured data format which looks like HTML. In XML the tags are not predefined. The first line is an XML declaration. The person tag is the root of the XML. The person has a gender attribute.
+
+
+"""
+
+xml
+<?xml version="1.0"?>
+<person gender="female">
+  <name>Asabeneh</name>
+  <country>Finland</country>
+  <city>Helsinki</city>
+  <skills>
+    <skill>JavaScrip</skill>
+    <skill>React</skill>
+    <skill>Python</skill>
+  </skills>
+</person>
+
+ """
+
+
+import xml.etree.ElementTree as ET
+tree = ET.parse('./19_Day_File_handling/xml_example.xml')
+root = tree.getroot()
+print('Root tag:', root.tag)
+print('Attribute:', root.attrib)
+for child in root:
+    print('field: ', child.tag)
