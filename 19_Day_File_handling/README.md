@@ -224,9 +224,9 @@ _Example:_
 ```py
 # dictionary
 person_dct= {
-    "name":"Asabeneh",
-    "country":"Finland",
-    "city":"Helsinki",
+    "name":"benaifa",
+    "country":"Algeria",
+    "city":"blida",
     "skills":["JavaScrip", "React","Python"]
 }
 # JSON: A string form a dictionary
@@ -234,9 +234,9 @@ person_json = "{'name': 'Asabeneh', 'country': 'Finland', 'city': 'Helsinki', 's
 
 # we use three quotes and make it multiple line to make it more readable
 person_json = '''{
-    "name":"Asabeneh",
-    "country":"Finland",
-    "city":"Helsinki",
+    "name":"benaifa",
+    "country":"Algeria",
+    "city":"blida",
     "skills":["JavaScrip", "React","Python"]
 }'''
 ```
@@ -249,9 +249,9 @@ To change a JSON to a dictionary, first we import the json module and then we us
 import json
 # JSON
 person_json = '''{
-    "name": "Asabeneh",
-    "country": "Finland",
-    "city": "Helsinki",
+    "name": "benaifa",
+    "country": "Algeria",
+    "city": "blida ",
     "skills": ["JavaScrip", "React", "Python"]
 }'''
 # let's change JSON to dictionary
@@ -276,9 +276,9 @@ To change a dictionary to a JSON we use _dumps_ method from the json module.
 import json
 # python dictionary
 person = {
-    "name": "Asabeneh",
-    "country": "Finland",
-    "city": "Helsinki",
+    "name": "benaifa",
+    "country": "Algeria",
+    "city": "blida",
     "skills": ["JavaScrip", "React", "Python"]
 }
 # let's convert it to  json
@@ -293,9 +293,9 @@ print(person_json)
 # JSON does not have type, it is a string type.
 <class 'str'>
 {
-    "name": "Asabeneh",
-    "country": "Finland",
-    "city": "Helsinki",
+    "name": "benaifa",
+    "country": "Algeria",
+    "city": "blida",
     "skills": [
         "JavaScrip",
         "React",
@@ -312,9 +312,9 @@ We can also save our data as a json file. Let us save it as a json file using th
 import json
 # python dictionary
 person = {
-    "name": "Asabeneh",
-    "country": "Finland",
-    "city": "Helsinki",
+    "name": "benaifa",
+    "country": "Algeria",
+    "city": "blida",
     "skills": ["JavaScrip", "React", "Python"]
 }
 with open('./files/json_example.json', 'w', encoding='utf-8') as f:
@@ -331,7 +331,7 @@ CSV stands for comma separated values. CSV is a simple file format used to store
 
 ```csv
 "name","country","city","skills"
-"Asabeneh","Finland","Helsinki","JavaScript"
+"benaifa","Algeria","blida","JavaScript"
 ```
 
 **Example:**
