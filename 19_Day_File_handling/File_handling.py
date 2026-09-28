@@ -5,9 +5,9 @@ from pathlib import Path
 file = "19_Day_File_handling/file.txt"
 
 f = open(file, "r", encoding="utf-8")
-
 print(f.read())
 
+print("############################################")
 #OR
 file = Path("19_Day_File_handling/file.txt")
 
@@ -15,6 +15,7 @@ with  file.open('r' , encoding="utf-8") as f :
     content = f.read()# mode(r, a, w, x, t,b)
     f.close()
 print(content) 
+print("############################################")
 
 # output
 print(type(content) )
