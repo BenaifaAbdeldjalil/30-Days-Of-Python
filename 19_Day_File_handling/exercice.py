@@ -59,4 +59,5 @@ def find_most_common_words(file,i):
     print(sorted_result[:i])
 
 
-find_most_common_words(file_m,5)
+find_most_common_words(file_m,10)
+
