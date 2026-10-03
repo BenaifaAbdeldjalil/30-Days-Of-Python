@@ -58,7 +58,7 @@ Let us declare url variable for the website which we are going to scrape.
 
 import requests
 from bs4 import BeautifulSoup
-url = 'https://archive.ics.uci.edu/ml/datasets.php'
+url = 'https://archive.ics.uci.edu/dataset/53/iris'
 
 # Lets use the requests get method to fetch the data from url
 
@@ -77,7 +77,7 @@ Using beautifulSoup to parse content from the page
 ```py
 import requests
 from bs4 import BeautifulSoup
-url = 'https://archive.ics.uci.edu/ml/datasets.php'
+url = 'https://archive.ics.uci.edu/dataset/53/iris'
 
 response = requests.get(url)
 content = response.content # we get all the content from the website
