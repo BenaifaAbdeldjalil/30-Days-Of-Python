@@ -39,6 +39,9 @@ To start scraping websites you need _requests_, _beautifoulSoup4_ and a _website
 ```sh
 pip install requests
 pip install beautifulsoup4
+
+# OR:
+pip install -r .\requirements.txt
 ```
 
 To scrape data from websites, basic understanding of HTML tags and CSS selectors is needed. We target content from a website using HTML tags, classes or/and ids.
