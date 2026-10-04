@@ -156,7 +156,7 @@ print(fruits)
 ### Creating Pandas Series from a Dictionary
 
 ```python
-dct = {'name':'Asabeneh','country':'Finland','city':'Helsinki'}
+dct = {'name':'djalil','country':'algeria','city':'Blida'}
 ```
 
 ```python
@@ -165,9 +165,9 @@ print(s)
 ```
 
 ```sh
-    name       Asabeneh
-    country     Finland
-    city       Helsinki
+name        djalil
+country    algeria
+city         Blida
     dtype: object
 ```
 
@@ -214,90 +214,27 @@ Pandas data frames can be created in different ways.
 
 ```python
 data = [
-    ['Asabeneh', 'Finland', 'Helsink'],
+    ['Djalil', 'Algeria', 'Blida'],
     ['David', 'UK', 'London'],
     ['John', 'Sweden', 'Stockholm']
 ]
 df = pd.DataFrame(data, columns=['Names','Country','City'])
 print(df)
-```
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Names</th>
-      <th>Country</th>
-      <th>City</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsink</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>David</td>
-      <td>UK</td>
-      <td>London</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>John</td>
-      <td>Sweden</td>
-      <td>Stockholm</td>
-    </tr>
-  </tbody>
-</table>
 
 ### Creating DataFrame Using Dictionary
 
 ```python
-data = {'Name': ['Asabeneh', 'David', 'John'], 'Country':[
-    'Finland', 'UK', 'Sweden'], 'City': ['Helsiki', 'London', 'Stockholm']}
+data = {'Name': ['Djalil', 'David', 'John'], 'Country':[
+    'Algeria', 'UK', 'Sweden'], 'City': ['Blida', 'London', 'Stockholm']}
 df = pd.DataFrame(data)
 print(df)
 ```
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Name</th>
-      <th>Country</th>
-      <th>City</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsiki</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>David</td>
-      <td>UK</td>
-      <td>London</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>John</td>
-      <td>Sweden</td>
-      <td>Stockholm</td>
-    </tr>
-  </tbody>
-</table>
 
 ### Creating DataFrames from a List of Dictionaries
 
 ```python
 data = [
-    {'Name': 'Asabeneh', 'Country': 'Finland', 'City': 'Helsinki'},
+    {'Name': 'Djalil', 'Country': 'Algeria', 'City': 'Blida'},
     {'Name': 'David', 'Country': 'UK', 'City': 'London'},
     {'Name': 'John', 'Country': 'Sweden', 'City': 'Stockholm'}]
 df = pd.DataFrame(data)
@@ -316,9 +253,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
     </tr>
     <tr>
       <td>1</td>
@@ -340,7 +277,7 @@ print(df)
 To download the CSV file, what is needed in this example, console/command line is enough:
 
 ```sh
-curl -O https://raw.githubusercontent.com/Asabeneh/30-Days-Of-Python/master/data/weight-height.csv
+curl -O https://raw.githubusercontent.com/Djalil/30-Days-Of-Python/master/data/weight-height.csv
 ```
 
 Put the downloaded file in your working directory.
@@ -632,7 +569,7 @@ As always, first we import the necessary packages. Now, lets import pandas and n
 import pandas as pd
 import numpy as np
 data = [
-    {"Name": "Asabeneh", "Country":"Finland","City":"Helsinki"},
+    {"Name": "Djalil", "Country":"Algeria","City":"Blida"},
     {"Name": "David", "Country":"UK","City":"London"},
     {"Name": "John", "Country":"Sweden","City":"Stockholm"}]
 df = pd.DataFrame(data)
@@ -651,9 +588,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
     </tr>
     <tr>
       <td>1</td>
@@ -697,9 +634,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
     </tr>
     <tr>
@@ -741,9 +678,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
       <td>173</td>
     </tr>
@@ -791,9 +728,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
       <td>1.73</td>
     </tr>
@@ -852,9 +789,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.725183</td>
@@ -904,9 +841,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>
@@ -959,9 +896,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>
@@ -1063,9 +1000,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>
@@ -1137,9 +1074,9 @@ print(df[df['Ages'] > 120])
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Djalil</td>
+      <td>Algeria</td>
+      <td>Blida</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>
