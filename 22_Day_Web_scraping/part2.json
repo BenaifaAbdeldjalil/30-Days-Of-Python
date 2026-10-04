@@ -1,0 +1,1214 @@
+[
+    {
+        "type": "paragraphe",
+        "contenu": "DatasetsContribute DatasetDonate NewLink ExternalAbout UsWho We AreCitation MetadataContact InformationLoginFiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePythonBrowse DatasetsFiltersSort by# Views, desc# ViewsName# Instances# FeaturesDate DonatedRelevanceExpand AllCollapse AllIrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 FeaturesHeart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 FeaturesWine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 FeaturesBank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 FeaturesBreast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 FeaturesStudent PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 FeaturesAdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 FeaturesOnline RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 FeaturesWineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 FeaturesCar EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 FeaturesRows per page5101520250 to10 of689FiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePythonBy using the UCI Machine Learning Repository,\nyou acknowledge and accept the cookies and privacy practices used by the UCI Machine Learning Repository.AcceptRead PolicyThe ProjectAbout UsCMLNational Science FoundationNavigationHomeView DatasetsDonate a DatasetLogisticsContactPrivacy NoticeFeature Request or Bug ReportBrowse DatasetsDonate a DatasetLink an external DatasetWho We AreCitation MetadataContact InformationLogin"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "DatasetsContribute DatasetDonate NewLink ExternalAbout UsWho We AreCitation MetadataContact InformationLoginFiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePythonBrowse DatasetsFiltersSort by# Views, desc# ViewsName# Instances# FeaturesDate DonatedRelevanceExpand AllCollapse AllIrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 FeaturesHeart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 FeaturesWine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 FeaturesBank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 FeaturesBreast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 FeaturesStudent PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 FeaturesAdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 FeaturesOnline RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 FeaturesWineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 FeaturesCar EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 FeaturesRows per page5101520250 to10 of689FiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePythonBy using the UCI Machine Learning Repository,\nyou acknowledge and accept the cookies and privacy practices used by the UCI Machine Learning Repository.AcceptRead PolicyThe ProjectAbout UsCMLNational Science FoundationNavigationHomeView DatasetsDonate a DatasetLogisticsContactPrivacy NoticeFeature Request or Bug ReportBrowse DatasetsDonate a DatasetLink an external DatasetWho We AreCitation MetadataContact InformationLogin"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "DatasetsContribute DatasetDonate NewLink ExternalAbout UsWho We AreCitation MetadataContact InformationLoginFiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePythonBrowse DatasetsFiltersSort by# Views, desc# ViewsName# Instances# FeaturesDate DonatedRelevanceExpand AllCollapse AllIrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 FeaturesHeart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 FeaturesWine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 FeaturesBank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 FeaturesBreast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 FeaturesStudent PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 FeaturesAdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 FeaturesOnline RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 FeaturesWineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 FeaturesCar EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 FeaturesRows per page5101520250 to10 of689FiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePythonBy using the UCI Machine Learning Repository,\nyou acknowledge and accept the cookies and privacy practices used by the UCI Machine Learning Repository.AcceptRead PolicyThe ProjectAbout UsCMLNational Science FoundationNavigationHomeView DatasetsDonate a DatasetLogisticsContactPrivacy NoticeFeature Request or Bug Report"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Datasets"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Contribute DatasetDonate NewLink External"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Donate New"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Link External"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "About UsWho We AreCitation MetadataContact Information"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Who We Are"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Citation Metadata"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Contact Information"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Login"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Login"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "FiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePythonBrowse DatasetsFiltersSort by# Views, desc# ViewsName# Instances# FeaturesDate DonatedRelevanceExpand AllCollapse AllIrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 FeaturesHeart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 FeaturesWine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 FeaturesBank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 FeaturesBreast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 FeaturesStudent PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 FeaturesAdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 FeaturesOnline RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 FeaturesWineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 FeaturesCar EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 FeaturesRows per page5101520250 to10 of689"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "FiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePython"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Filters"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Filters"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Keywords"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Keywords"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Keywords"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Attributes"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Attributes"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Attributes"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Data Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Data Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Data Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Subject Area"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Subject Area"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Subject Area"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Task"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Task"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Task"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Feature Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Feature Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Feature Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Python"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Python"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Python"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Browse DatasetsFiltersSort by# Views, desc# ViewsName# Instances# FeaturesDate DonatedRelevanceExpand AllCollapse AllIrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 FeaturesHeart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 FeaturesWine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 FeaturesBank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 FeaturesBreast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 FeaturesStudent PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 FeaturesAdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 FeaturesOnline RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 FeaturesWineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 FeaturesCar EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 FeaturesRows per page5101520250 to10 of689"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Browse DatasetsFiltersSort by# Views, desc# ViewsName# Instances# FeaturesDate DonatedRelevanceExpand AllCollapse All"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "FiltersSort by# Views, desc# ViewsName# Instances# FeaturesDate DonatedRelevanceExpand AllCollapse All"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Filters"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Sort by"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Views, desc"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Views"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Name"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Date Donated"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Relevance"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Expand AllCollapse All"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Expand All"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Collapse All"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "IrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 FeaturesHeart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 FeaturesWine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 FeaturesBank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 FeaturesBreast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 FeaturesStudent PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 FeaturesAdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 FeaturesOnline RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 FeaturesWineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 FeaturesCar EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "IrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "IrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "IrisA small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.ClassificationTabular150 Instances4 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "A small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "ClassificationTabular150 Instances4 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Tabular"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Tabular"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "150 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "150 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "4 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "4 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Heart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Heart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Heart Disease4 databases: Cleveland, Hungary, Switzerland, and the VA Long BeachClassificationMultivariate303 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "ClassificationMultivariate303 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "303 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "303 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Wine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Wine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Wine QualityTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).Classification, RegressionMultivariate4.9K Instances12 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/)."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, RegressionMultivariate4.9K Instances12 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, Regression"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, Regression"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "4.9K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "4.9K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "12 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "12 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Bank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Bank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Bank MarketingThe data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).ClassificationMultivariate45.21K Instances17 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y)."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "ClassificationMultivariate45.21K Instances17 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "45.21K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "45.21K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "17 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "17 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Breast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Breast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Breast Cancer Wisconsin (Diagnostic)Diagnostic Wisconsin Breast Cancer Database.ClassificationMultivariate569 Instances30 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Diagnostic Wisconsin Breast Cancer Database."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "ClassificationMultivariate569 Instances30 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "569 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "569 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "30 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "30 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Student PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Student PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Student PerformancePredict student performance in secondary education (high school).Classification, RegressionMultivariate649 Instances33 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Predict student performance in secondary education (high school)."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, RegressionMultivariate649 Instances33 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, Regression"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, Regression"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "649 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "649 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "33 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "33 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "AdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "AdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "AdultPredict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.ClassificationMultivariate48.84K Instances14 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Predict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "ClassificationMultivariate48.84K Instances14 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "48.84K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "48.84K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "14 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "14 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Online RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Online RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Online RetailThis is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, ClusteringMultivariate, Sequential, Time-Series541.91K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, Clustering"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification, Clustering"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate, Sequential, Time-Series"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate, Sequential, Time-Series"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "541.91K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "541.91K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "WineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "WineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "WineUsing chemical analysis to determine the origin of winesClassificationTabular178 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Using chemical analysis to determine the origin of wines"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "ClassificationTabular178 Instances13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Tabular"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Tabular"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "178 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "178 Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "13 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Car EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Car EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Car EvaluationDerived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.ClassificationMultivariate1.73K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "ClassificationMultivariate1.73K Instances6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Classification"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Multivariate"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "1.73K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "1.73K Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "6 Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Rows per page5101520250 to10 of689"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Rows per page"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "0 to10 of689"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "0 to"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "10 of"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "689"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "FiltersKeywordsAttributesData TypeSubject AreaTask# Instances# FeaturesFeature TypePython"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Filters"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Filters"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Keywords"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Keywords"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Keywords"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Attributes"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Attributes"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Attributes"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Data Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Data Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Data Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Subject Area"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Subject Area"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Subject Area"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Task"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Task"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Task"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Instances"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "# Features"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Feature Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Feature Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Feature Type"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Python"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Python"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Python"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "By using the UCI Machine Learning Repository,\nyou acknowledge and accept the cookies and privacy practices used by the UCI Machine Learning Repository.AcceptRead Policy"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "By using the UCI Machine Learning Repository,\nyou acknowledge and accept the cookies and privacy practices used by the UCI Machine Learning Repository."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "By using the UCI Machine Learning Repository,\nyou acknowledge and accept the cookies and privacy practices used by the UCI Machine Learning Repository."
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "AcceptRead Policy"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "The ProjectAbout UsCMLNational Science Foundation"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "The Project"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "NavigationHomeView DatasetsDonate a Dataset"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Navigation"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "LogisticsContactPrivacy NoticeFeature Request or Bug Report"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Logistics"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Browse DatasetsDonate a DatasetLink an external DatasetWho We AreCitation MetadataContact InformationLogin"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Browse Datasets"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Donate a Dataset"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Link an external Dataset"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Who We Are"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Citation Metadata"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Contact Information"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Login"
+    },
+    {
+        "type": "paragraphe",
+        "contenu": "Login"
+    },
+    {
+        "type": "h2",
+        "contenu": "Iris"
+    },
+    {
+        "type": "h2",
+        "contenu": "Heart Disease"
+    },
+    {
+        "type": "h2",
+        "contenu": "Wine Quality"
+    },
+    {
+        "type": "h2",
+        "contenu": "Bank Marketing"
+    },
+    {
+        "type": "h2",
+        "contenu": "Breast Cancer Wisconsin (Diagnostic)"
+    },
+    {
+        "type": "h2",
+        "contenu": "Student Performance"
+    },
+    {
+        "type": "h2",
+        "contenu": "Adult"
+    },
+    {
+        "type": "h2",
+        "contenu": "Online Retail"
+    },
+    {
+        "type": "h2",
+        "contenu": "Wine"
+    },
+    {
+        "type": "h2",
+        "contenu": "Car Evaluation"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    },
+    {
+        "type": "link",
+        "contenu": "Login"
+    }
+]
