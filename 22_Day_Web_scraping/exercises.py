@@ -16,13 +16,16 @@ print(soup.title.get_text()) # UCI Machine Learning Repository: Data Sets
 # print(soup.body) # gives the whole page on the website
 print(response.status_code)
 
-
-tables = soup.find_all('table', {'cellpadding':'3'})
-
+tables = soup.find_all('table')
+#tables = soup.find_all('table', {'cellpadding':'3'})
+print(tables)
 # We are targeting the table with cellpadding attribute with the value of 3
 # We can select using id, class or HTML tag , for more information check the beautifulsoup doc
+value=[]
 if len(tables)>0:
     table = tables[0] # the result is a list, we are taking out data from it
+    
+    for td in table.find('tr').find_all('th'):
+        value.append(td.text)
 
-    for td in table.find('tr').find_all('td'):
-        print(td.text)
+print(value)
